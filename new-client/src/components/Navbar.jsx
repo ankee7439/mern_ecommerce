@@ -62,7 +62,7 @@ const Badge=styled.span`
    right : -10px;
    padding : 5px 8px;
    border-radius: 50%;
-   backgroud-color: red;
+   background-color: red;
    color: white;
    font-size: 12px;
 `;
